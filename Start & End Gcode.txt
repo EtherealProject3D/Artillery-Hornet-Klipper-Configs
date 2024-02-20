@@ -1,0 +1,10 @@
+Start Gcode:
+
+M190 S[bed_temperature_initial_layer_single]
+M109 S[nozzle_temperature_initial_layer]
+M117
+PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]
+
+End Gcode:
+
+PRINT_END

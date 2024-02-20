@@ -1,0 +1,7 @@
+RPI Imager: https://www.raspberrypi.com/software/
+Putty: https://www.putty.org/
+Pronterface: https://github.com/kliment/Printrun/releases/tag/printrun-2.0.0
+STM32 Programmer: https://www.st.com/en/development-tools/stm32cubeprog.html
+Klipper Installer And Update Helper: https://github.com/th33xitus/kiauh
+Klipper sample configs: https://github.com/Klipper3d/klipper/tree/master/config
+Klipper Website: https://www.klipper3d.org/
