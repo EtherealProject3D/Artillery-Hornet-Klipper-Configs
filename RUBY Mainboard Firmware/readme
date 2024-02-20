@@ -1,1 +1,1 @@
-
+Update your RUBY mainboard firmware with this BIN file using STM32 Cube Programmer with the Mainboard in DFU Mode. Put mainboard in DFU mode using Pronterface and entering M997 or by installing jumper between the "boot" and "3.3V" pins on the mainboard and powering wtih USB POWER ONLY. Remove Jumper when upload is finished.
